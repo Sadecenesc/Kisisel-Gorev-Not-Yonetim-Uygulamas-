@@ -93,7 +93,7 @@ src/
 
 ## 🌐 Canlı Demo
 
-> [https://PROJE_ADIN.netlify.app](https://PROJE_ADIN.netlify.app)
+> [https://thunderous-manatee-8b7f6c.netlify.app](https://thunderous-manatee-8b7f6c.netlify.app)
 >
 > *(Netlify deploy sonrası güncellenecek)*
 
